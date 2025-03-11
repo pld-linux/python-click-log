@@ -6,7 +6,7 @@
 Summary:	Integrates logging with click
 Name:		python-click-log
 Version:	0.3.2
-Release:	6
+Release:	7
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/click-log/
